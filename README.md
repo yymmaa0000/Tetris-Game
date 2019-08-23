@@ -18,12 +18,10 @@ space = restart
 ESC = quit   
 For each row that player cleared simultaneously, the player gets a score that is equal to (3 to the power of the number of rows cleared) + 1   
 
-Submitted files:
+Files written by me:
 1. TETRIS_main_xingyuwa.cpp
 2. TETRIS_xingyuwa.cpp
 3. TETRIS_xingyuwa.h
-4. bg_music.wav
-
 
 Note: if you have trouble compiling my file due to the background music, or if the music is not playing correctly, you can comment out line 43 in the main file to disable the music. The program should till run correctly without music. You can also replace the music file with the ones that you like while playing this very addictive game    
 
